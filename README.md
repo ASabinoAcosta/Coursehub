@@ -1,6 +1,6 @@
 ![upscalemedia-transformed](https://github.com/user-attachments/assets/0a172975-bc09-4014-b970-ae29381d6826)
 # 
-🌐 [🇪🇸 Español](./README.md) | [🇬🇧 English](./README_ENG.md)
+🌐 [🇪🇸 Español](./README.md) | [🇬🇧 English](./README_ENG.md) <br>
 Un proyecto de desarrollo web de una página de cursos a la cual se podrá registrar, acceder a cursos, guardar progreso y generar un certificado descargable en PDF.
 
 <p align="left">
