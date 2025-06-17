@@ -1,5 +1,6 @@
 ![upscalemedia-transformed](https://github.com/user-attachments/assets/0a172975-bc09-4014-b970-ae29381d6826)
 # 
+🌐 [🇪🇸 Español](./README.md) | [🇬🇧 English](./README_ENG.md) <br>
 A web development project for an online course platform where users can register, access courses, track progress, and generate a downloadable PDF certificate.
 
 <p align="left">
